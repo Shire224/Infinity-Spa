@@ -1,4 +1,4 @@
-# My Awesome Project
+# Infinity Spa
 
 Made a Spa website for one of my clients
 
