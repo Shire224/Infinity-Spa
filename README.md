@@ -2,7 +2,7 @@
 
 Made a Spa website for one of my clients
 
-**Link to project:** https://app.netlify.com/sites/infinityspa/overview
+**Link to project:** https://infinityspa.netlify.app/
 
 ## How It's Made:
 
